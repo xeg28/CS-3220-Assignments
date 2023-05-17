@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ServletUtilities.java&apos; to &apos;utilities&apos;&#x0D;&#x0A;- Original project: &apos;Lab 09&apos;&#x0D;&#x0A;- Destination element: &apos;utilities&apos;&#x0D;&#x0A;- Original element: &apos;ServletUtilities.java&apos;" description="Copy file" element1="src/main/java/lab09/utilities/ServletUtilities.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1680658639355" target="/Midterm/src/main/java/utilities" units="0" version="1.0"/>
+</session>

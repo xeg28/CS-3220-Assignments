@@ -1,0 +1,11 @@
+
+public class Readings {
+	private int id;
+	private int userId;
+	private int systolic;
+	private int diastolic;
+	private date 
+	public Readings() {}
+	
+	
+}

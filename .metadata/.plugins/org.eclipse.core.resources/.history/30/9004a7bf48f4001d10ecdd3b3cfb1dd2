@@ -1,0 +1,13 @@
+
+import java.sql.Date;
+
+public class Readings {
+	private int id;
+	private int userId;
+	private int systolic;
+	private int diastolic;
+	private Date readingTime; 
+	public Readings() {}
+	
+	
+}
