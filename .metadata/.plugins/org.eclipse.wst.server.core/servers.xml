@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="11">
-    <list key="modules" value0="Lab 05::org.eclipse.jst.jee.server:Lab 05::jst.web::4.0" value1="Lab 06::org.eclipse.jst.jee.server:Lab 06::jst.web::4.0" value10="Final::org.eclipse.jst.jee.server:Final::jst.web::4.0" value2="HW 1::org.eclipse.jst.jee.server:HW 1::jst.web::4.0" value3="Lab 07::org.eclipse.jst.jee.server:Lab 07::jst.web::4.0" value4="Lab 08::org.eclipse.jst.jee.server:Lab 08::jst.web::4.0" value5="Lab 09::org.eclipse.jst.jee.server:Lab 09::jst.web::4.0" value6="HW 2::org.eclipse.jst.jee.server:HW 2::jst.web::4.0" value7="Midterm::org.eclipse.jst.jee.server:Midterm::jst.web::4.0" value8="Lab 13::org.eclipse.jst.jee.server:Lab 13::jst.web::4.0" value9="HW 3::org.eclipse.jst.jee.server:HW 3::jst.web::4.0"/>
-  </server>
-</servers>
